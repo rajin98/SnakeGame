@@ -2,6 +2,8 @@ import time
 import random
 from tkinter import *
 
+//random comment
+
 CANVAS_WIDTH = 800
 CANVAS_HEIGHT = 600
 SIZE = 20
